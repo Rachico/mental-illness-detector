@@ -1,5 +1,5 @@
 A deep learning model for detecting mental illness from user content on the social network Reddit <br>
 
-**Final code will be pushed very soon !**
+**Final code for the CNN model will be pushed very soon !**
 
 
